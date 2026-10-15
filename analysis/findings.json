@@ -1,0 +1,351 @@
+{
+  "n_total": 520,
+  "trend": {
+    "dates": [
+      "2026-10-06",
+      "2026-10-07",
+      "2026-10-08",
+      "2026-10-09",
+      "2026-10-10",
+      "2026-10-11",
+      "2026-10-12",
+      "2026-10-13",
+      "2026-10-14",
+      "2026-10-15"
+    ],
+    "analyst": [
+      5,
+      63,
+      53,
+      51,
+      8,
+      16,
+      25,
+      26,
+      11,
+      7
+    ],
+    "support": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      7,
+      39,
+      36,
+      15,
+      12
+    ],
+    "n": 374,
+    "peak_day": "2026-10-12",
+    "peak_count": 64
+  },
+  "work_mode": {
+    "unknown": 236,
+    "remote": 232,
+    "on-site": 30,
+    "hybrid": 22
+  },
+  "work_mode_known_pct_remote": 81.7,
+  "work_mode_n_known": 284,
+  "salary_n": 84,
+  "salary_median": 4.5,
+  "salary_p25": 3.5,
+  "salary_p75": 6.7,
+  "salary_by_mode": {
+    "hybrid": {
+      "median": 3.5,
+      "n": 3
+    },
+    "on-site": {
+      "median": 5.45,
+      "n": 6
+    },
+    "remote": {
+      "median": 4.75,
+      "n": 51
+    },
+    "unknown": {
+      "median": 4.38,
+      "n": 24
+    }
+  },
+  "remote_premium_pct": -12.8,
+  "salary_by_city": {
+    "Bengaluru": {
+      "median": 6.62,
+      "n": 4
+    },
+    "Gurugram": {
+      "median": 4.75,
+      "n": 20
+    },
+    "Delhi": {
+      "median": 4.44,
+      "n": 12
+    },
+    "Noida": {
+      "median": 3.5,
+      "n": 7
+    },
+    "Pune": {
+      "median": 3.25,
+      "n": 4
+    }
+  },
+  "salary_values_by_mode": {
+    "hybrid": [
+      3.0,
+      4.38,
+      3.5
+    ],
+    "on-site": [
+      8.25,
+      3.2,
+      10.0,
+      6.5,
+      2.88,
+      4.4
+    ],
+    "remote": [
+      8.3,
+      8.3,
+      6.0,
+      12.85,
+      7.0,
+      4.5,
+      2.75,
+      5.25,
+      10.0,
+      8.5,
+      5.0,
+      12.5,
+      5.0,
+      13.5,
+      6.6,
+      5.4,
+      5.4,
+      4.8,
+      3.5,
+      8.0,
+      2.3,
+      5.4,
+      2.75,
+      2.75,
+      4.5,
+      45.65,
+      8.0,
+      2.75,
+      4.38,
+      5.4,
+      7.0,
+      3.0,
+      3.5,
+      3.5,
+      3.38,
+      3.5,
+      3.0,
+      3.5,
+      8.5,
+      3.5,
+      8.5,
+      3.5,
+      3.5,
+      3.0,
+      3.12,
+      2.88,
+      4.75,
+      2.0,
+      9.0,
+      3.0,
+      3.38
+    ],
+    "unknown": [
+      6.18,
+      4.5,
+      3.5,
+      3.88,
+      4.0,
+      10.0,
+      2.5,
+      5.5,
+      4.25,
+      5.5,
+      3.5,
+      10.75,
+      10.5,
+      6.5,
+      3.48,
+      4.12,
+      10.25,
+      5.0,
+      5.5,
+      4.0,
+      4.0,
+      5.25,
+      3.5,
+      3.25
+    ]
+  },
+  "skills": {
+    "mis": 47,
+    "power bi": 23,
+    "sql": 22,
+    "excel": 17,
+    "python": 7,
+    "tableau": 6,
+    "azure": 3,
+    "dax": 2,
+    "etl": 2,
+    "statistics": 2,
+    "aws": 1,
+    "looker": 1
+  },
+  "skills_n": 93,
+  "top_skill": {
+    "name": "mis",
+    "count": 47
+  },
+  "top_companies": [
+    {
+      "company": "crewlia",
+      "n": 33
+    },
+    {
+      "company": "HRM Counsel",
+      "n": 20
+    },
+    {
+      "company": "Scoutit",
+      "n": 8
+    },
+    {
+      "company": "Jobgether",
+      "n": 8
+    },
+    {
+      "company": "Gens Hiree",
+      "n": 8
+    },
+    {
+      "company": "EXL",
+      "n": 7
+    },
+    {
+      "company": "Lenskart",
+      "n": 7
+    },
+    {
+      "company": "9AP Energy - Ambit Transmission Products Ltd.",
+      "n": 4
+    },
+    {
+      "company": "Crossing Hurdles",
+      "n": 4
+    },
+    {
+      "company": "Workis Solution",
+      "n": 4
+    },
+    {
+      "company": "Porch Group",
+      "n": 4
+    },
+    {
+      "company": "Novastrix Labs",
+      "n": 3
+    }
+  ],
+  "experience": {
+    "buckets": [
+      "Fresher (0)",
+      "1 yr",
+      "2 yrs",
+      "3 yrs",
+      "4\u20135 yrs",
+      "6+ yrs"
+    ],
+    "counts": [
+      106,
+      61,
+      42,
+      23,
+      3,
+      0
+    ],
+    "n": 235
+  },
+  "stream_compare": {
+    "analyst": {
+      "n": 403,
+      "median_salary": 5.25,
+      "salary_n": 51,
+      "remote_pct": 70.3,
+      "work_mode_n": 175
+    },
+    "support": {
+      "n": 117,
+      "median_salary": 3.5,
+      "salary_n": 33,
+      "remote_pct": 100.0,
+      "work_mode_n": 109
+    }
+  },
+  "top_titles": [
+    {
+      "title": "data analyst",
+      "n": 93
+    },
+    {
+      "title": "business analyst",
+      "n": 46
+    },
+    {
+      "title": "mis analyst",
+      "n": 13
+    },
+    {
+      "title": "mis executive",
+      "n": 12
+    },
+    {
+      "title": "back office operations executive",
+      "n": 9
+    },
+    {
+      "title": "customer support specialist",
+      "n": 7
+    },
+    {
+      "title": "power bi developer",
+      "n": 7
+    },
+    {
+      "title": "research analyst",
+      "n": 6
+    },
+    {
+      "title": "content writer",
+      "n": 6
+    },
+    {
+      "title": "bi developer",
+      "n": 5
+    }
+  ],
+  "portal_mix": {
+    "linkedin": 169,
+    "naukri": 135,
+    "support_linkedin": 83,
+    "shine": 48,
+    "support_naukri": 33,
+    "instahyre": 32,
+    "direct": 8,
+    "internshala": 6,
+    "email": 2,
+    "rohtak": 2,
+    "foundit": 1,
+    "support_other": 1
+  }
+}
